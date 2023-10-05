@@ -1,8 +1,16 @@
-#Install
+# Install
 
+```
 npm install
+```
 
-#Run
+# Run
 
+```
 npm run start
+```
+
+# Watch mode
+```
 npm run start:dev
+```
